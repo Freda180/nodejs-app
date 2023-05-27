@@ -1,0 +1,15 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "This is a simple nodejs application created from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Freda <agbechafreda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
